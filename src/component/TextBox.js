@@ -35,7 +35,7 @@ const TextBox = () => {
           ></input>
         </div>
         <div className="tearmsService">
-          <label>
+          <label style={{ paddingLeft: "10px" }}>
             <input type="checkbox" id="checkBox" />I agree to the Terms of
             Service.
           </label>
